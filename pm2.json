@@ -2,14 +2,10 @@
   "apps": [
     {
       "name": "api-node-js",
-      "script": "yarn prod",
+      "script": "npm run prod",
       "watch": true,
       "watch_delay": 1000,
-      "ignore_watch": [
-        "node_modules",
-        "tmp",
-        "src/errors"
-      ],
+      "ignore_watch": ["node_modules", "tmp", "src/errors"],
       "instances": 1,
       "max_memory_restart": "1024",
       "restart_delay": 3000,
