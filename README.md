@@ -10,6 +10,14 @@ Libraries
 - [uuid](https://www.npmjs.com/package/uuid)
 - [multer](https://www.npmjs.com/package/multer)
 
+```sh
+
+    $ npm install
+    $ cp .env.example .env
+    $ npm run dev
+
+```
+
 ```py
 
     location / {
