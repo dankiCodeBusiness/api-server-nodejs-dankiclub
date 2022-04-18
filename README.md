@@ -1,6 +1,6 @@
 # API NodeJS DankiClub
 
-![Danki Code](https://github.com/dankiCodeBusiness/api-server-nodejs-dankiclub/blob/main/src/assets/cover.jpg?raw=true)
+![Danki Code](https://github.com/dankiCodeBusiness/api-server-nodejs-dankiclub/blob/main/src/assets/cover.jpeg?raw=true)
 
 API Restful
 
